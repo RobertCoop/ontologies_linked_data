@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'activesupport', '~> 4.0'
-gem 'addressable', '= 2.3.5'
+gem 'addressable', '2.8.1'
 gem 'bcrypt', '~> 3.0'
 gem 'cube-ruby', require: 'cube'
 gem 'ffi'
